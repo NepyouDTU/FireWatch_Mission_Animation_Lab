@@ -34,6 +34,8 @@ This cubic relationship is a common approximation for aerodynamic drag power. Dr
 
 $F_\text{drag} \propto v^2$
 
+$D = \frac{1}{2}\rho v^2 C_D A$
+
 Power is force multiplied by velocity:
 
 $P = Fv$
